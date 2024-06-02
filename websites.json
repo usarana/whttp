@@ -1,0 +1,9 @@
+{
+    "websites": [
+        {
+            "domain": "example.site",
+            "creation_date": "02-06-2024",
+            "git": "https://github.com/usarana/wwnet-example-site/archive/master.zip"
+        }
+    ]
+}
