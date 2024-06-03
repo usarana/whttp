@@ -1,9 +1,14 @@
 {
     "websites": [
         {
-            "domain": "example.site",
+            "domain": "test.site",
             "creation_date": "02-06-2024",
             "git": "https://github.com/usarana/wwnet-example-site/archive/master.zip"
+        },
+        {
+            "domain": "test2.site",
+            "creation_date": "03-06-2024",
+            "git": "https://github.com/usarana/wwnet-example-site2/archive/master.zip"
         }
     ]
 }
